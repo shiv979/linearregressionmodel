@@ -1,4 +1,4 @@
-# Linear Regression Model - California Housing Dataset
+# Linear Regression Model Using California Housing Dataset
 
 This project was completed as Task 1 of the Maincrafts Technology AI & ML Internship.
 
